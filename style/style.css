@@ -16,7 +16,7 @@ a{
 }
 
 .background{
-    background-image: url('/img/image.png');
+    background-image: url('../img/image.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
